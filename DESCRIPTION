@@ -4,3 +4,7 @@ Title: Does not matter.
 Version: 0.0.1
 Imports: bookdown, ggplot2, xml2, downlit, bslib
 Remotes: rstudio/bookdown
+License:
+Description:
+Author:
+Maintainer:
