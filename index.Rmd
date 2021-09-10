@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Digital Garden"
+author: "Paulius Alaburda"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -57,4 +57,9 @@ bookdown::serve_book()
 knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
+
+library(xml2)
+library(downlit)
+library(bslib)
+
 ```
