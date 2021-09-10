@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Digital Garden"
+author: "Paulius Alaburda"
 date: "2021-09-10"
 site: bookdown::bookdown_site
 documentclass: book
