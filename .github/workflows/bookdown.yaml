@@ -6,6 +6,9 @@ on:
 
 name: bookdown
 
+env:
+  RENV_PATHS_ROOT: ~/.local/share/renv
+
 jobs:
   bookdown:
     runs-on: ubuntu-latest
