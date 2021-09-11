@@ -75,7 +75,11 @@ wormhole-coffee
 first-sip-cafe
 coffee-people-recommend
 food
+citizen-research
+tools
 data-team-management
 twitter-threads
 blog-posts
+career-growth
 recruiting
+job-descriptions
