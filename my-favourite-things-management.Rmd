@@ -12,6 +12,20 @@ blogdown::shortcode('tweet', '1279836969044852738')
 
 https://blog.danielna.com/choosing-the-management-track/
 
+## Career Growth
+
+https://twitter.com/QuinnyPig/status/1436129343399346184
+
 ## Recruiting
+
+### Job Descriptions
+
+From personal experience, job descriptions should differ depending on whether you are hiring a senior or a junior. A junior analyst or engineer values learning, so a job description that touches as many aspects of the actual job as possible is desirable. For example, if your job description focuses exclusively on dashboards and reports, you will detract people who would be willing to do such a responsibility but who would also like exposure to new technologies.
+
+For senior people, the opposite might be true - instead of going wide, they might prefer going deep into a specific area of the data field, for example, building dashboards or building ML models. I am less certain of this as I am only beginning to look into hiring senior data analysts.
+
+Either way, you shouldn't be looking for "cogs", you are looking for specific people, make sure the job description communicates that and lets people know they would be a good match. A job description shouldn't be just a list of "must have" and "nice to have" requirements.
+
+Links:
 
 https://www.getdbt.com/data-teams/analytics-job-descriptions/
