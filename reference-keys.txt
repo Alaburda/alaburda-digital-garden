@@ -78,6 +78,8 @@ food
 citizen-research
 tools
 data-team-management
+agile-data-science
+data-team-management-1
 twitter-threads
 blog-posts
 career-growth
