@@ -79,6 +79,9 @@ coffee-people-recommend
 food
 citizen-research
 tools
+books-1
+causal-inference
+polls
 data-team-management
 agile-data-science
 data-team-management-1
