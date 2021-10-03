@@ -41,6 +41,8 @@ pnparcade
 secret-hitler
 blogs
 meeple-like-us
+career-advice
+managers
 chicago
 donuts-and-pastries
 lost-larson
