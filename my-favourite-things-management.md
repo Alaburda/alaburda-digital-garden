@@ -28,3 +28,4 @@ Links:
 
 https://www.getdbt.com/data-teams/analytics-job-descriptions/
 https://twitter.com/lennysan/status/1440337580692684805
+https://larahogan.me/blog/being-a-manager-in-terrible-times/

@@ -1,7 +1,7 @@
 --- 
 title: "Digital Garden"
 author: "Paulius Alaburda"
-date: "2021-10-22"
+date: "2021-12-11"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]

@@ -11,3 +11,6 @@ These are notes from the book Agile Data Science 2.0
 * Discover the critical path. THe critical path is the longest sequence of tasks that must be completed for a project to be completed on time. Analytics products have critical paths as well but they must be discovered through experimentation.
 * Get meta. This essentially means avoiding documenting the end product but rather documenting the decisions and the process towards the final product.
 * Data Science projects are usually shipped with "good enough" code. If the product becomes important, then increasing the quality of the code is paramount. Technical debt is a naturally occuring side-effect of data science projects.
+
+
+https://drivendata.github.io/cookiecutter-data-science/#opinions
